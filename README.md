@@ -13,15 +13,6 @@ Feel free to explore my repositories and reach out. Looking forward to connectin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatadri04&show_icons=true&theme=radical" alt="Venki's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatadri04&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="left">
